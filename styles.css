@@ -8,3 +8,5 @@
 
 .hero-subtitle,.section-heading>p,.intro-copy>p,.promise-copy>p,.faq-heading>p,.faq-list details p,.closing>p,.card-info p{font-family:var(--display);letter-spacing:.025em}
 
+.photo-stage{isolation:isolate;background:#e8e7e0}.photo-stage .product-photo{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:0}.iphone-photo{object-position:center 46%;transform:scale(1.08)}.product-inset{position:absolute;right:15px;bottom:17px;width:76px;height:104px;object-fit:cover;object-position:center;border:4px solid #f7f6f2;box-shadow:0 5px 16px #15151545;z-index:1}.photo-stage .card-number,.photo-stage .card-arrow{z-index:2}.photo-stage .visual-caption{z-index:2;background:#f7f6f2e8;padding:8px 10px;bottom:15px;left:15px;color:#353630;font-size:7px;line-height:1.7;letter-spacing:.12em}.airpods-photo{object-position:center 51%;transform:scale(1.03)}.airpods-stage .visual-caption{background:#1e201fe8;color:#f7f6f2}.charger-photo{object-position:center 52%;transform:scale(1.02)}@media(max-width:650px){.product-inset{width:72px;height:96px;right:14px;bottom:15px}.photo-stage .visual-caption{bottom:14px;left:14px}}
+
